@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\3D Scripts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|e:\\unityprojects\\3d scripts\\assets\\scripts\\universaltransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\universaltransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|E:\\UnityProjects\\3D Scripts\\assets\\scripts\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|E:\\UnityProjects\\3D Scripts\\assets\\scripts\\movingforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|e:\\unityprojects\\3d scripts\\assets\\scripts\\growup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132D3E1-C0F1-156C-AC00-F5F4A5E6A1BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\growup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversalTransform.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\UniversalTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UniversalTransform.cs",
+              "ToolTip": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\UniversalTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UniversalTransform.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:04:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrowUp.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\GrowUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GrowUp.cs",
+              "ToolTip": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\GrowUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GrowUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:38:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spin.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\Spin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spin.cs",
+              "ToolTip": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\Spin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:30:49.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovingForward.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\MovingForward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingForward.cs",
+              "ToolTip": "E:\\UnityProjects\\3D Scripts\\Assets\\Scripts\\MovingForward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingForward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:11:08.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
