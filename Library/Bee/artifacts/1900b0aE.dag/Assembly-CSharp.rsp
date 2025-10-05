@@ -355,7 +355,6 @@
 "Assets/Scripts/Grow.cs"
 "Assets/Scripts/Move.cs"
 "Assets/Scripts/Spin.cs"
-"Assets/Scripts/UniversalTransform.cs"
 -langversion:9.0
 
 /deterministic
