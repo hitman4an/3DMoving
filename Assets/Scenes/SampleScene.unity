@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0215dce312b9a1b449e9ba10807f5d1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _spinSpeed: 0
+  _speed: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80527e227ba2ee3468ce998e678d0329, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _movingSpeed: 0
+  _speed: 0
 --- !u!1 &1659184737
 GameObject:
   m_ObjectHideFlags: 0
@@ -667,7 +667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b7ea78cfeed71d48a083e9fc70099b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _growSpeed: 0
+  _speed: 0
 --- !u!1 &1707689305
 GameObject:
   m_ObjectHideFlags: 0
@@ -680,6 +680,8 @@ GameObject:
   - component: {fileID: 1707689308}
   - component: {fileID: 1707689307}
   - component: {fileID: 1707689306}
+  - component: {fileID: 1707689312}
+  - component: {fileID: 1707689311}
   - component: {fileID: 1707689310}
   m_Layer: 0
   m_Name: Cube (1)
@@ -783,12 +785,36 @@ MonoBehaviour:
   m_GameObject: {fileID: 1707689305}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c940ade775d4404aa307d75f17e4283, type: 3}
+  m_Script: {fileID: 11500000, guid: 0215dce312b9a1b449e9ba10807f5d1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _moveSpeed: 0
-  _growSpeed: 0
-  _spinSpeed: 0
+  _speed: 0
+--- !u!114 &1707689311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707689305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80527e227ba2ee3468ce998e678d0329, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _speed: 0
+--- !u!114 &1707689312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707689305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b7ea78cfeed71d48a083e9fc70099b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _speed: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
